@@ -1,0 +1,13 @@
+//Run by: Nikhil Pai Ganesh 
+//Filename: server-log.txt
+//Purpose: server terminal log
+
+Script started on Sat 04 Apr 2020 12:03:42 AM EDT
+
+bash-4.2$ gcc -o server server.c
+bash-4.2$ ./server 55517 /home/COIS/3380/lab4_sourcefile
+file /home/COIS/3380/lab4_sourcefile send SUCCESS
+bash-4.2$ exit
+exit
+
+Script done on Sat 04 Apr 2020 12:05:18 AM EDT

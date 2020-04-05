@@ -1,0 +1,18 @@
+//Run by: Nikhil Pai Ganesh 
+//Filename: client-log.txt
+//Purpose: client terminal log
+
+
+Script started on Sat 04 Apr 2020 12:03:16 AM EDT
+
+bash-4.2$ gcc -o client client.c
+bash-4.2$ ./client 127.0.0.1 55517
+----------------FILE RECIEVED SUCESSFULLY--------------
+--- file name: lab_sourcefile_local_clone ---
+bash-4.2$ ls
+client	  client-log.txt	      server	server-log
+client.c  lab_sourcefile_local_clone  server.c	server.txt
+bash-4.2$ exit
+exit
+
+Script done on Sat 04 Apr 2020 12:05:13 AM EDT
